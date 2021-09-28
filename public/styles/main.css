@@ -34,6 +34,11 @@ body{
 
 } */
 
+#funny{
+	width: 210;
+	height: 1540;
+}
+
 a {
 	color: var(--body-color);
 	text-decoration-color: var(--contrast-color);
